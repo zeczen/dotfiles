@@ -1,5 +1,7 @@
 [user]
-	email = seyal613@gmail.com
+	email = eyal.seck@gmail.com
 	name = zeczen
 [core]
 	editor = vim
+[credential]
+	helper = store
